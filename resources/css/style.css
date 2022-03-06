@@ -1,0 +1,30 @@
+/*Header Section & Navigation*/
+
+nav {
+    height: 64px;
+    padding: 0 24px;
+    display: flex;
+}
+
+nav a,
+nav img {
+    margin: auto 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: auto 0 auto auto;
+    padding: 0;
+    /*background-color: white;*/
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: inline-block;
+    padding-right: 16px;
+    text-decoration: none;
+    color: black;
+}
